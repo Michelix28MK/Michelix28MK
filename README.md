@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="#"><img src="./devcard.png" width="356" alt="Michele's Dev Card"/></a>
 <!--
 **Michelix28MK/Michelix28MK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
